@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="actiTime automation">
+  <test name="testNG Test">
+    <classes>
+      <class name="com.sgtesting.driver.DriverScript"></class>
+    </classes>
+  </test>
+</suite>

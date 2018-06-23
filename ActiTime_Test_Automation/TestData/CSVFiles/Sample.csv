@@ -1,0 +1,5 @@
+﻿Customer,Project,Task,Description,Type of Work,Deadline,Estimate
+Customer A,Project A1,Task 1,Description 1,,12/31/2016,
+Customer A,Project A1,Task 2,,,,
+Customer B,Project B1,Task 3,,Type of Work 3,,
+Customer B,Project B2,Task 4,Description 4,,,40
