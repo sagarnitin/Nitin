@@ -31,6 +31,9 @@ public class Datatable extends DriverScript{
 	 * Date Modified 	:
 	 * ************************************
 	 */
+	public static void main(String[] args) {
+		System.out.println("added main mehtod");
+	}
 	public void CreateResultFile()
 	{
 		String sFilePath=null;
